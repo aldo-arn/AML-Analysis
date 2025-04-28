@@ -8,10 +8,10 @@ _Aldo Alvarez_
 <details>
   <summary><b>🔎 Executive Summary</b></summary>
 
-This project applies classic, explainable Machine Learning models to assess Anti-Money Laundering (AML) risk on Bitcoin transactions.
+This project applies classic, explainable Machine Learning models to assess Anti-Money Laundering (AML) risk on financial transactions.
 
 Key contributions include:
-- Wrangling and enriching transaction data with graph-based features (e.g., degree, PageRank, eigenvector centrality).
+- Wrangling and enriching transaction data with graph-based features.
 - Benchmarking Logistic Regression, Random Forest, and XGBoost classifiers.
 - Prioritizing explainability and minimizing illicit transaction misclassification.
 
@@ -49,7 +49,7 @@ Steps to obtain the data:
 
 - **Data Wrangling:** Minor adjustments were made to data types and column names to facilitate analysis.
 - **Feature Engineering:** Added graph metrics to capture the network role of each transaction:
-  - Degree
+  - Node Degree
   - In-Degree
   - Out-Degree
   - Clustering Coefficient
