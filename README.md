@@ -26,7 +26,7 @@ The dataset used in this project comes from the [Elliptic Bitcoin Transaction Da
 It contains Bitcoin transactions labeled as licit or illicit, alongside graph-based connections between transactions.
 
 Steps to obtain the data:
-1. Download the dataset from the provided link.
+1. Download the dataset: from the provided link, or through Kaggle's python API (check demo code).
 2. Ensure the following files are available in your working directory:
    - `elliptic_txs_edgelist.csv`
    - `elliptic_txs_features.csv`
