@@ -2,7 +2,7 @@
 
 Brief one-paragraph description of what your project does, its main objective, and why it's useful or interesting.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_GOOGLE_COLAB_LINK_HERE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mq7fLoalaZ300CUeckJ4xvr9vtrX0R1J?usp=sharing)
 
 ---
 
