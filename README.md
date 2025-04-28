@@ -6,7 +6,7 @@ _Aldo Alvarez_
 ---
 
 <details>
-  <summary><b>🔎 Executive Summary</b></summary>
+  <summary><b>🔎 Summary</b></summary>
 
 This project applies classic, explainable Machine Learning models to assess Anti-Money Laundering (AML) risk on financial transactions.
 
